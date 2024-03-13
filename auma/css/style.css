@@ -464,8 +464,8 @@ line-height: 1.5em;
     align-items: center;
     min-height: 100vh;
 	margin-top: 85px;
-    background-color: #ff622dd0;
-    background-image: linear-gradient(45deg, #2600ff61 0%, #ff00005f 100%) , url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=1060&t=st=1709372566~exp=1709373166~hmac=54da3ad8f1e02817acb2be01f9b1e09aa1f2c45fe4089065ea8a12d814afa619);
+    background-color: #ffffffd0;
+    background-image: linear-gradient(45deg, #ffffff61 0%, #008cff5f 100%) , url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=1060&t=st=1709372566~exp=1709373166~hmac=54da3ad8f1e02817acb2be01f9b1e09aa1f2c45fe4089065ea8a12d814afa619);
 }
 .cardwhole{
     position: relative;
@@ -484,7 +484,7 @@ line-height: 1.5em;
  display: flex;
  justify-content: center;
  align-items: flex-start;
- background: linear-gradient(to bottom, #ffffff 0%, #ffcbaf 100%);
+ background: linear-gradient(to bottom, #ffffff 0%, #41a5f7 100%);
  border-radius: 20px;
  box-shadow: 0px 35px 80px rgba(0,0,0,0.15);
  transition: 0.5s;

@@ -465,7 +465,7 @@ line-height: 1.5em;
     min-height: 100vh;
 	margin-top: 85px;
     background-color: #ff622dd0;
-    background-image: linear-gradient(to bottom, #f1da2069 0%, #2c5518fc 100%) , url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=1060&t=st=1709372566~exp=1709373166~hmac=54da3ad8f1e02817acb2be01f9b1e09aa1f2c45fe4089065ea8a12d814afa619);
+    background-image: linear-gradient(to bottom, #ffffff69 0%, #2c5518fc 100%) , url(https://img.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg?w=1060&t=st=1709372566~exp=1709373166~hmac=54da3ad8f1e02817acb2be01f9b1e09aa1f2c45fe4089065ea8a12d814afa619);
 }
 .cardwhole{
     position: relative;
